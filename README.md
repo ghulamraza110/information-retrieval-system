@@ -1,9 +1,9 @@
 ## 🔍 Information Retrieval System (TF-IDF CLI)
 
-```markdown
+
 A modular command-line application for searching and ranking text documents using TF-IDF and cosine similarity. Built in pure Python with no external dependencies beyond the standard library and NumPy.
 
-```
+
 ---
 ## 📁 Directory Structure
 
